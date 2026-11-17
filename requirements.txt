@@ -1,0 +1,5 @@
+# Aplicação
+Flask>=3.0,<4.0
+
+# Testes
+pytest>=8.0
